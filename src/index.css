@@ -221,6 +221,7 @@ nav ul li a:hover {
 }
 #about {
   margin-top: 100px;
+  margin-bottom: 20px;
   width: 100%;
   height: 100vh;
   box-sizing: border-box;
